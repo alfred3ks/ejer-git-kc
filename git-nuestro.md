@@ -10,8 +10,6 @@ Danos hoy nuestro *pull* de cada dia
 
 Perdona nuestros *conflictos*
 
-Como tambíen perdonamos los de otros geeks
-
 No nos dejes caer en *detached HEAD*
 
 y libranos de *SVN*
